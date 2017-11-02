@@ -1,9 +1,9 @@
 # SQL
 ##### Note, doesn't need to be only on one line but MUST end with ;
-##### Note syntax : ~filler text~
-##### Note syntax :  |optional|
+##### Note syntax : `~filler text~`
+##### Note syntax : `|optional|`
 ```sql
-Main |Type| ~column~ from ~table~ |what|;
+Main |Type| ~column~ FROM ~table~ |what|;
 ```
 
 ## Main Command
